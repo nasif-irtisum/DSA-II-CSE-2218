@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Even Cout
 int evenCount (vector <int> v, int left, int right)
 {
     if (left==right){
